@@ -1,2 +1,40 @@
+* { 
+     margin: 0;
+     padding: 0;
+     }
  header {background-color: aquamarine;
-color: rgb(0, 0, 0);}
+color: rgb(0, 0, 0);
+display: flex;
+justify-content: space-around;
+padding: 24px 0;}
+
+
+.cabecalho-imagem{
+    width: 15%;
+}
+.cabecalho-titulo
+{display: inline-block;
+    margin: 0 16px;
+    padding: 100px 0;
+    font-size: 40px; }
+
+
+
+li
+{display: inline-block;
+margin: 0 16px;
+padding: 24px 0;
+font-size: 24px;}
+
+.escola-imagem{
+    width: 20%;
+     }
+     .escola{ 
+        background-image:linear-gradient(red,black) ;
+        color: aquamarine;
+        
+     }
+    
+ 
+
+   
