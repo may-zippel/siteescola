@@ -2,8 +2,9 @@
      margin: 0;
      padding: 0;
      }
- header {background-color: aquamarine;
-color: rgb(0, 0, 0);
+     body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+ header {background-color: rgb(87, 9, 9);
+color: hsl(0, 0%, 0%);
 display: flex;
 justify-content: space-around;
 padding: 24px 0;}
@@ -29,9 +30,9 @@ font-size: 24px;}
 .escola-imagem{
     width: 20%;
      }
-     .escola{ 
-        background-image:linear-gradient(red,black) ;
-        color: aquamarine;
+.escola{ 
+        background-image:linear-gradient(rgb(87, 9, 9),rgba(32, 4, 4, 0)) ;
+        color: rgb(0, 2, 0);
         
      }
     
